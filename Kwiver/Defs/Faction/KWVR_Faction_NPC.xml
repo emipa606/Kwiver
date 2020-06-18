@@ -26,7 +26,7 @@
   <canMakeRandomly>true</canMakeRandomly>
   
   <requiredCountAtGameStart>1</requiredCountAtGameStart>
-  <settlementGenerationWeight>0.5</settlementGenerationWeight>
+  <settlementGenerationWeight>0.85</settlementGenerationWeight>
   
   <startingGoodwill>-70~-10</startingGoodwill>
   <naturalColonyGoodwill>-70~-10</naturalColonyGoodwill>

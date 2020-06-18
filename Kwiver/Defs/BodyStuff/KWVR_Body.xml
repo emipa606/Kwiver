@@ -125,7 +125,7 @@
               <parts>
                 <li>
                   <def>Skull</def>
-                  <coverage>0.12</coverage>
+                  <coverage>0.072</coverage>
                   <depth>Inside</depth>
                   <groups>
                     <li>UpperHead</li>
@@ -134,7 +134,8 @@
                   <parts>
                     <li>
                       <def>Brain</def>
-                      <coverage>0.1</coverage>
+                      <customLabel>upper ganglia</customLabel>
+                      <coverage>0.004</coverage>
                       <groups>
                         <li>UpperHead</li>
                         <li>FullHead</li>
@@ -146,7 +147,7 @@
                 <li>
                   <def>Eye</def>
                   <customLabel>first eye</customLabel>
-                  <coverage>0.032</coverage>
+                  <coverage>0.038</coverage>
                   <groups>
                     <li>FullHead</li>
                     <li>Eyes</li>
@@ -155,7 +156,7 @@
                 <li>
                   <def>Eye</def>
                   <customLabel>second eye</customLabel>
-                  <coverage>0.032</coverage>
+                  <coverage>0.038</coverage>
                   <groups>
                     <li>FullHead</li>
                     <li>Eyes</li>
@@ -164,7 +165,7 @@
                 <li>
                   <def>Eye</def>
                   <customLabel>third eye</customLabel>
-                  <coverage>0.032</coverage>
+                  <coverage>0.038</coverage>
                   <groups>
                     <li>FullHead</li>
                     <li>Eyes</li>
@@ -173,7 +174,7 @@
                 <li>
                   <def>Eye</def>
                   <customLabel>fourth eye</customLabel>
-                  <coverage>0.032</coverage>
+                  <coverage>0.038</coverage>
                   <groups>
                     <li>FullHead</li>
                     <li>Eyes</li>
@@ -182,7 +183,7 @@
                 <li>
                   <def>Eye</def>
                   <customLabel>fifth eye</customLabel>
-                  <coverage>0.032</coverage>
+                  <coverage>0.038</coverage>
                   <groups>
                     <li>FullHead</li>
                     <li>Eyes</li>
@@ -191,7 +192,7 @@
                 <li>
                   <def>Eye</def>
                   <customLabel>sixth eye</customLabel>
-                  <coverage>0.032</coverage>
+                  <coverage>0.038</coverage>
                   <groups>
                     <li>FullHead</li>
                     <li>Eyes</li>
@@ -200,7 +201,7 @@
                 <li>
                   <def>Eye</def>
                   <customLabel>seventh eye</customLabel>
-                  <coverage>0.032</coverage>
+                  <coverage>0.038</coverage>
                   <groups>
                     <li>FullHead</li>
                     <li>Eyes</li>
@@ -209,7 +210,7 @@
                 <li>
                   <def>Eye</def>
                   <customLabel>eighth eye</customLabel>
-                  <coverage>0.032</coverage>
+                  <coverage>0.038</coverage>
                   <groups>
                     <li>FullHead</li>
                     <li>Eyes</li>
@@ -218,7 +219,7 @@
                 <li>
                   <def>Eye</def>
                   <customLabel>ninth eye</customLabel>
-                  <coverage>0.032</coverage>
+                  <coverage>0.038</coverage>
                   <groups>
                     <li>FullHead</li>
                     <li>Eyes</li>
@@ -227,7 +228,7 @@
                 <li>
                   <def>Eye</def>
                   <customLabel>tenth eye</customLabel>
-                  <coverage>0.032</coverage>
+                  <coverage>0.038</coverage>
                   <groups>
                     <li>FullHead</li>
                     <li>Eyes</li>
@@ -236,7 +237,7 @@
                 <li>
                   <def>Eye</def>
                   <customLabel>eleventh eye</customLabel>
-                  <coverage>0.032</coverage>
+                  <coverage>0.038</coverage>
                   <groups>
                     <li>FullHead</li>
                     <li>Eyes</li>
@@ -245,7 +246,7 @@
                 <li>
                   <def>Eye</def>
                   <customLabel>twelfth eye</customLabel>
-                  <coverage>0.032</coverage>
+                  <coverage>0.038</coverage>
                   <groups>
                     <li>FullHead</li>
                     <li>Eyes</li>
@@ -255,7 +256,7 @@
                 <li>
                   <def>Eye</def>
                   <customLabel>thirteenth eye</customLabel>
-                  <coverage>0.032</coverage>
+                  <coverage>0.038</coverage>
                   <groups>
                     <li>FullHead</li>
                     <li>Eyes</li>
@@ -264,7 +265,7 @@
                 <li>
                   <def>Eye</def>
                   <customLabel>fourteenth eye</customLabel>
-                  <coverage>0.032</coverage>
+                  <coverage>0.038</coverage>
                   <groups>
                     <li>FullHead</li>
                     <li>Eyes</li>
@@ -273,7 +274,7 @@
                 <li>
                   <def>Eye</def>
                   <customLabel>fifthteenth eye</customLabel>
-                  <coverage>0.032</coverage>
+                  <coverage>0.038</coverage>
                   <groups>
                     <li>FullHead</li>
                     <li>Eyes</li>
@@ -282,7 +283,7 @@
                 <li>
                   <def>Eye</def>
                   <customLabel>sixteenth eye</customLabel>
-                  <coverage>0.032</coverage>
+                  <coverage>0.038</coverage>
                   <groups>
                     <li>FullHead</li>
                     <li>Eyes</li>
@@ -291,7 +292,7 @@
                 <li>
                   <def>Eye</def>
                   <customLabel>seventeenth eye</customLabel>
-                  <coverage>0.032</coverage>
+                  <coverage>0.038</coverage>
                   <groups>
                     <li>FullHead</li>
                     <li>Eyes</li>
@@ -300,7 +301,7 @@
                 <li>
                   <def>Eye</def>
                   <customLabel>eighteenth eye</customLabel>
-                  <coverage>0.032</coverage>
+                  <coverage>0.038</coverage>
                   <groups>
                     <li>FullHead</li>
                     <li>Eyes</li>
@@ -309,7 +310,7 @@
                 <li>
                   <def>Eye</def>
                   <customLabel>nineteenth eye</customLabel>
-                  <coverage>0.032</coverage>
+                  <coverage>0.038</coverage>
                   <groups>
                     <li>FullHead</li>
                     <li>Eyes</li>
@@ -318,7 +319,7 @@
                 <li>
                   <def>Eye</def>
                   <customLabel>twentieth eye</customLabel>
-                  <coverage>0.032</coverage>
+                  <coverage>0.038</coverage>
                   <groups>
                     <li>FullHead</li>
                     <li>Eyes</li>
@@ -327,7 +328,7 @@
                 <li>
                   <def>Eye</def>
                   <customLabel>twenty-first eye</customLabel>
-                  <coverage>0.032</coverage>
+                  <coverage>0.038</coverage>
                   <groups>
                     <li>FullHead</li>
                     <li>Eyes</li>
@@ -336,7 +337,7 @@
                 <li>
                   <def>Eye</def>
                   <customLabel>twenty-second eye</customLabel>
-                  <coverage>0.032</coverage>
+                  <coverage>0.038</coverage>
                   <groups>
                     <li>FullHead</li>
                     <li>Eyes</li>
@@ -345,7 +346,7 @@
                 <li>
                   <def>Eye</def>
                   <customLabel>twenty-third eye</customLabel>
-                  <coverage>0.032</coverage>
+                  <coverage>0.038</coverage>
                   <groups>
                     <li>FullHead</li>
                     <li>Eyes</li>
@@ -354,7 +355,7 @@
                 <li>
                   <def>Eye</def>
                   <customLabel>twenty-fourth eye</customLabel>
-                  <coverage>0.032</coverage>
+                  <coverage>0.038</coverage>
                   <groups>
                     <li>FullHead</li>
                     <li>Eyes</li>
