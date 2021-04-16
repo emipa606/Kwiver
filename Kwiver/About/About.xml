@@ -4,8 +4,20 @@
 	<author>GarbageDayIsHereToStay</author>
 	<supportedVersions>
 		<li>1.1</li>
-	</supportedVersions>
+		<li>1.2</li>
+	</supportedVersions>	
 	<packageId>GarbageDayIsHereToStay.Kwiver.GDIHTSKWVR</packageId>
+	<modDependencies>
+		<li>
+			<packageId>erdelf.HumanoidAlienRaces</packageId>
+			<displayName>Humanoid Alien Races</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/839005762</steamWorkshopUrl>
+			<downloadUrl>https://github.com/erdelf/AlienRaces/releases/latest</downloadUrl>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>erdelf.HumanoidAlienRaces</li>
+	</loadAfter>
 	<description>(Newest patch notes on workshop; Version: 17-06-2020)
 		\nKwiver are a territorial, physically resilient species who's numerous but fragmented collectives have been sprinkled across this quadrant of space by millennium of panspermia. Although an intelligent lifeform their thought processes are relatively slow; When matched with their short lifespans this means Kwiver societies struggle with knowledge retention and are often technologically stagnant.
 		\nWhile fierce combatants Kwiver are nonetheless outcompeted on those rimworld where humanity and other intelligent species have established themselves. It's not unknown for kwiver to be hunted as sport and some regional powers have officially labeled them pests, organizing complete eradication campaigns against Kwiver within their territory.
